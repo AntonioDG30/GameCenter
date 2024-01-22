@@ -9,11 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9266305d-9a76-4e5b-84c4-cb148965085b" name="Changes" comment="" />
+    <list default="true" id="9266305d-9a76-4e5b-84c4-cb148965085b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/control/AdminProductControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/control/AdminProductControl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -33,6 +39,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2aoetgWhyEyp5cqdzOJYrvhouJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +54,7 @@
     &quot;Tomcat Server.Tomcat 9.0.31.executor&quot;: &quot;Run&quot;,
     &quot;Tomcat Server.Tomcat 9.0.85.executor&quot;: &quot;Run&quot;,
     &quot;Tomcat Server.index.jsp.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Utente/IdeaProjects/GameCenter/src/main/webapp/WEB-INF&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -506,6 +514,10 @@
       <workItem from="1705430534019" duration="599000" />
       <workItem from="1705436245731" duration="146000" />
       <workItem from="1705573160235" duration="238000" />
+      <workItem from="1705604248398" duration="224000" />
+      <workItem from="1705752219931" duration="1300000" />
+      <workItem from="1705760422920" duration="4000" />
+      <workItem from="1705827062699" duration="1229000" />
     </task>
     <servers />
   </component>
